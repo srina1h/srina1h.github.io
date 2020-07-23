@@ -3,7 +3,7 @@
 
 
 <html>
-	<script src="https://www.google.com/recaptcha/api.js"></script>
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	<script>
 	  function onSubmit(token) {
 	    document.getElementById("demo-form").submit();
@@ -96,9 +96,7 @@
 										<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
 									</div>
 									<button type="submit" class="g-recaptcha-response" 
-        data-sitekey="6Ldx87QZAAAAAN-rw1HzTksgWgKhS5Q71JGAWmaT" 
-        data-callback='onSubmit' 
-        data-action='submit'>Send</button>
+        data-sitekey="6Ldx87QZAAAAAN-rw1HzTksgWgKhS5Q71JGAWmaT" >Send</button>
 								</ul>
 								</form>
 								
