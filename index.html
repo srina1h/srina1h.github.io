@@ -10,7 +10,25 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script>
+
+		function get_action(form) 
+		{
+		    var v = grecaptcha.getResponse();
+		    if(v.length == 0)
+		    {
+			document.getElementById('captcha').innerHTML="You can't leave Captcha Code empty";
+			return false;
+		    }
+		    else
+		    {
+			 document.getElementById('captcha').innerHTML="Captcha completed";
+			return true; 
+		    }
+		}
+
+		</script>
 	</head>
 	<body class="is-preload">
 
@@ -90,7 +108,8 @@
 										<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
 										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
 										<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
-										<div class="g-recaptcha" data-sitekey="6Ldx87QZAAAAAN-rw1HzTksgWgKhS5Q71JGAWmaT"></div>
+										<div class="g-recaptcha" id="rcaptcha"  data-sitekey="6Ldx87QZAAAAAN-rw1HzTksgWgKhS5Q71JGAWmaT"></div>
+										<span id="captcha" style="color:red" /></span>
 									</div>									
 								</ul>
 								<ul class="actions">
