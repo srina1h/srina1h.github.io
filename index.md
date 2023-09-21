@@ -4,19 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master's student at North Carolina State University Raleigh, USA. I am currently investigating the acceleration of tensorized neural networks under Dr. Jiajia Li at NCSU. I completed my bachelor's at SSN College of Engineering (Anna University) Chennai, India. I was previously a Software Engineer at Poshmark working on their iOS app. Ive had multiple research experiences at IIT Madras, Robert Bosch Centre for Data Science and AI. I've also had several SWE internships.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **High Performance Computing:** HPC algorithms in conjunction with ML applications
+- **Machine Learning:** Bayesian learning, uncertainty estimation, optimization techniques
 
 {% include_relative _includes/publications.md %}
 
