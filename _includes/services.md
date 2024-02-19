@@ -15,7 +15,7 @@
   - Working on intermediate layers’ tensor contraction (GEMM) optimization through vendor/open-source libraries
 
 - **Poshmark Chennai, India** \
-  **\*Software Engineer - 1** (Aug 2022 - Jul 2023)\*
+  \***Software Engineer - 1** (Aug 2022 - Jul 2023)\*
 
   - Developed key infrastructure components such as screen pagination algorithms from scratch for the new SwiftUI Combine based publisher-subscriber design paradigm
   - Migrated multiple legacy objective C components to SwiftUI MVVM architecture, resulting in a 60% reduction in code complexity and improved app performance
@@ -23,10 +23,10 @@
   - Developed crucial components for Poshmark’s time-sensitive live streaming and auction features
 
 - **Navis, Chennai, India**\
-  **\*Associate Software Engineer - Intern** (Jan 2022 - Jul 2022)\*
+  \***Associate Software Engineer - Intern** (Jan 2022 - Jul 2022)\*
   - Resolved mission critical bugs in the Navis N4 terminal operating system, increasing system stability
   - Worked on an adjacent AI-enabled product to enable smart docking of ships to optimize dock space
 - **Renault Nissan Technology and Business Centre, Chennai, India**\
-  **\*SDE Intern** (Aug 2021 - Oct 2021)\*
+  \***SDE Intern** (Aug 2021 - Oct 2021)\*
   - Developed a scalable cloud-based pipeline enabling car dealerships to remotely communicate key data points to analysts
   - Application reduces delay in creating analytical reports and minimizes manual entry errors through multiple validation checks
