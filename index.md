@@ -14,7 +14,7 @@ Feel free to shoot me an email to discuss any opportunities/for research collabo
 
 ## Research Interests
 
-- **High Performance Computing:** Systems in Machine Learning/ Accelerating Machine Learning Algorithms
+- **High Performance Computing:** Systems in ML/ Accelerated ML
 - **Machine Learning:** Uncertainty-aided ML, Uncertainty quantification techniques.
 
 {% include_relative _includes/publications.md %}
