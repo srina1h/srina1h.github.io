@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1121/10.0017115">Machine learning aided near-field acoustic holography based on equivalent source method</a></div>
     <div class="author">Chaitanya SK, Sriraman Siddharth, <strong>Srinath Srinivasan</strong>, Srinivasan K</div>
-    <div class="periodical"><em>The Journal of the Acoustical Society of America</strong>, 2023.</em></div>
+    <div class="periodical"><em>The Journal of the Acoustical Society of America, 2023.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1121/10.0017115" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
       <strong><i style="color:#e74d3c">Journal</i></strong>
@@ -32,7 +32,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Data-driven neural networks for source localization and reconstruction using a planar array</a></div>
     <div class="author">Sai Manikanta Kaja, <strong>Srinath Srinivasan</strong>, S. K. Chaitanya, K. Srinivasan</div>
-    <div class="periodical"><em>International Journal of Aeroacoustics</strong>, 2022.</em></div>
+    <div class="periodical"><em>International Journal of Aeroacoustics, 2022.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1177/1475472X221136884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
       <strong><i style="color:#e74d3c">Journal</i></strong>
@@ -51,7 +51,7 @@
     <div class="title"><a href="">Exploring Bayesian Uncertainty Modeling for
 Book Genre Classification</a></div>
     <div class="author"><strong>Srinath Srinivasan</strong>, S G Shivanirudh, Sujay Sathya, T T Mirnalinee</div>
-    <div class="periodical"><em>IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)</strong>, 2022.</em></div>
+    <div class="periodical"><em>IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT), 2022.</em></div>
     <div class="links">
       <a href="https://doi.org/10.1109/IAICT55358.2022.9887417" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
       <strong><i style="color:#e74d3c">Conference</i></strong>

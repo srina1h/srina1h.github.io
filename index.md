@@ -8,9 +8,7 @@ I am a Master's student at [North Carolina State University Raleigh](https://ncs
 
 I was previously a Software Engineer at Poshmark working on their iOS app. At Poshmark I led efforts to port several of their legacy MVC Objective-C code to the Swift/SwiftUI MVVM paradigm. We redesigned several screens from scratch including creating an efficient pagination algorithm for some screens with heavy scroll cases.
 
-During my undergraduate program in Computer Science, I worked in the [Thermodynamics and Combustion Engineering Laboratory](https://sites.google.com/site/jetflowacoustics/welcome-to-prof-srinivasans-homepage/research-areas-and-facilities?authuser=0) at the [Indian Institute of Technology, Madras](https://iitm.ac.in). I worked on using Machine Learning to localize and reconstruct acoustic signals. Our efforts resulted in three publications at top journals and conferences in the area.
-
-I have also worked at the Robert Bosch Centre for Data Science and AI to predict student dropouts from MOOCs and on a project to predict ambulance timings for the Govt. of Tamil Nadu 108 ambulance service. I have also had 2 SWE internships during my undergraduate program.
+During my undergrad, I worked in the [Thermodynamics and Combustion Engineering Laboratory](https://sites.google.com/site/jetflowacoustics/welcome-to-prof-srinivasans-homepage/research-areas-and-facilities?authuser=0) at the [Indian Institute of Technology, Madras](https://iitm.ac.in). I worked on using Machine Learning to localize and reconstruct acoustic signals. I have also worked at the Robert Bosch Centre for Data Science and AI to predict student dropouts from MOOCs and on a project to predict ambulance timings for the Govt. of Tamil Nadu 108 ambulance service. I have also had 2 SWE internships at Navis and Renault.
 
 Feel free to shoot me an email to discuss any opportunities/for research collaboration!
 
