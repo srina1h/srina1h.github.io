@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -59,11 +59,11 @@ Book Genre Classification</a></div>
   </div>
 </div>
 </li>
-  
+
 <br>
 
 </ol>
-</div>
+</div> -->
 
 <!-- <div class="pub-row">
 
@@ -85,3 +85,29 @@ Book Genre Classification</a></div>
     </div>
   </div>
 </div> -->
+
+## Publications:
+
+1. **[Extracting Usable Predictions from Quantized Networks through Uncertainty Quantification for OOD Detection](https://arxiv.org/abs/2024)**  
+   Rishi Singhal, Srinath Srinivasan  
+   _ArXiv Preprint_ (2024)
+
+2. **[Machine Learning Aided Near-Field Acoustic Holography Based on Equivalent Source Method](https://asa.scitation.org/journal/jas)**  
+   S.K. Chaitanya, Siddharth Sriraman, Srinath Srinivasan, K. Srinivasan  
+   _The Journal of the Acoustical Society of America_ (2023)
+
+3. **[Data-Driven Neural Networks for Source Localization and Reconstruction Using a Planar Array](https://journals.sagepub.com/home/aero)**  
+   Sai Manikanta Kaja, Srinath Srinivasan, K. Srinivasan  
+   _International Journal of Aeroacoustics_ (2022)
+
+4. **[Exploring Bayesian Uncertainty Modeling for Book Genre Classification](https://ieeexplore.ieee.org/Xplore/home.jsp)**  
+   Srinath Srinivasan, SG Shivanirudh, Sujay Sathya, TT Mirnalinee  
+   _IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology_ (2022)
+
+5. **[Equivalent Source Method Based Near-Field Acoustic Holography Using Machine Learning](https://internoise2022.org/)**  
+   S.K. Chaitanya, Siddharth Sriraman, Srinath Srinivasan, K. Srinivasan  
+   _Internoise_ (2022)
+
+6. **[LRCNs for Stroke Detection in Table Tennis](https://multimediaeval.github.io/)**  
+   Siddharth Sriraman, Srinath Srinivasan, Vishnu K Krishnan, J Bhuvana, TT Mirnalinee  
+   _MediaEval Workshop_ (2019)
