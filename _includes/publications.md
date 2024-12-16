@@ -86,7 +86,7 @@ Book Genre Classification</a></div>
   </div>
 </div> -->
 
-## Publications:
+## Publications
 
 1. **[Extracting Usable Predictions from Quantized Networks through Uncertainty Quantification for OOD Detection](https://arxiv.org/abs/2024)**  
    Rishi Singhal, Srinath Srinivasan  
